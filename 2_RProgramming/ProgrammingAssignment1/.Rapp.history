@@ -1,0 +1,4 @@
+getwd()
+source("pollutantmean.R")
+pollutantmean("specdata","sulfate")
+pollutantmean("specdata")
